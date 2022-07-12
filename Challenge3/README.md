@@ -1,6 +1,6 @@
 ![Devboost](https://i.imgur.com/XsrMmiE.png)
 
-##  DevBoost Challenge #3 ![#B01BE3](https://via.placeholder.com/10/B01BE3/ffffff?text=+) 
+##  DevBoost Challenge #3
 
 Welcome to the project. <br>
 I come through this project to put into **practice** methods **learned** on the Front-End, <br>
@@ -13,17 +13,17 @@ created with **HTML, CSS3, JS** it is a presentation page. **(non-dynamic)**. <b
 ![css](https://img.shields.io/badge/CSS3-B01BE3?style=for-the-badge&logo=css3&logoColor=white) 
 ![javascript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=B01BE3)
 
-## How to use ![#8257E5](https://via.placeholder.com/10/B01BE3/ffffff?text=+)
+## How to use
 
 - Clone this repository
 - Open `index.html` in browser
 
-## Preview [Computer] ![#B01BE3](https://via.placeholder.com/10/B01BE3/ffffff?text=+) 
+## Preview [Computer]
 ##### See all <a href="https://www.behance.net/gallery/137790305/RocketCoffe">here</a><br>
 \
 ![image](https://i.imgur.com/effe1rE.png)
 
-## Preview [Mobile] ![#B01BE3](https://via.placeholder.com/10/B01BE3/ffffff?text=+) 
+## Preview [Mobile]
 \
 ![image](https://i.imgur.com/GXzArb6.png)
 
