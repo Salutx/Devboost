@@ -8,7 +8,7 @@ created with **HTML, CSS3, JS** it is a presentation page. **(non-dynamic)**. <b
 
 **@Devboost**
 
-## Technologies (Project) ![#B01BE3](https://via.placeholder.com/10/B01BE3/ffffff?text=+)
+## Technologies (Project)
 ![html5](https://img.shields.io/badge/HTML5-B01BE3?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS3-B01BE3?style=for-the-badge&logo=css3&logoColor=white) 
 ![javascript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=B01BE3)
